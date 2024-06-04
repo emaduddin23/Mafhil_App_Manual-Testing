@@ -1,7 +1,7 @@
 # Mafhil_App_Manual-Testing
 This is an assignment. A company is provided to me.
 
-## URL: [https://www.ewubd.edu/history](https://play.google.com/store/apps/details?id=com.mahfil.app&hl=en_US)
+## URL: [(https://play.google.com/store/apps/details?id=com.mahfil.app&hl=en_US)]
 ## Requirements:
 - Knowledge of manual testing.
 - knowledge of bug reporting 
